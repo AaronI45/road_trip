@@ -1,3 +1,3 @@
 # Proyecto de prueba
 ***
-Este es un proyecto de prueba desarrollado con nodeJS
+Este es un proyecto de prueba desarrollado con nodeJS.
